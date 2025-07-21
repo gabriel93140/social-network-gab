@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mon-projet-reseau",
-    "slug": "mon-projet-reseau",
+    "name": "social-network-gab",
+    "slug": "social-network-gab",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
